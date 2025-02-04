@@ -6,6 +6,8 @@ Overview
 This repository contains a dataset and code to predict the shear modulus (G) of Municipal Solid Waste (MSW) using boosting-based ensemble machine learning algorithms combined with explainable AI techniques. The study addresses the challenges of traditional MSW testing, such as unpleasant odors, degradation, and the high cost of laboratory experiments, by providing a reliable and efficient predictive modeling framework.
 Dataset
 
+The current work utilizes the cyclic triaxial test data of 153 samples of MSW. The dataset was originally reported by (Alidoust, Keramati, et al., 2021) and the samples were collected from an MSW dumpside at Kahrizak, Iran. 
+
 The dataset includes 153 data points collected from the literature, with the following features:
 
     No.: Data point index
